@@ -10,10 +10,6 @@ boards, discussion forums, calendar of upcoming events, and a gallery to showcas
 images from alumni events, college activities, and other relevant visual content on the 
 website.
 
-
-![Screenshot (34)](https://github.com/user-attachments/assets/e68ddf7b-dd5b-400b-bfca-ae65f58f8127)
-
-
 Features:
 
 Admin Module: 
@@ -80,4 +76,12 @@ comment on, or create forum topics. It encourages networking and sharing ideas w
 the alumni community. 
 8. Account Management Page: This page allows alumni to manage and update 
 their personal information, including login credentials and professional or academic 
-details. Users can also adjust their privacy settings or profile visibility on this page. 
+details. Users can also adjust their privacy settings or profile visibility on this page.
+
+Screenshots:
+
+Home Page:
+
+![image](https://github.com/user-attachments/assets/f833fe04-9068-40fb-8475-ff9ae9f9bf91)
+
+
