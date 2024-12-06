@@ -1,5 +1,8 @@
 # Alumni-Connect
 
+Alumni Connect 🌐
+
+About the Project:
 The Alumni Connect is a web application designed to provide a platform that 
 fosters relationships between educational institutions and their alumni. It provides a 
 platform for organizing events, sharing job opportunities and facilitating 
@@ -9,6 +12,12 @@ a range of features, including comprehensive user profiles, event management, jo
 boards, discussion forums, calendar of upcoming events, and a gallery to showcases 
 images from alumni events, college activities, and other relevant visual content on the 
 website.
+
+Technologies Used:
+
+Frontend: HTML, CSS, JavaScript
+Backend: Php
+Database: SQL
 
 Features:
 
@@ -78,10 +87,23 @@ the alumni community.
 their personal information, including login credentials and professional or academic 
 details. Users can also adjust their privacy settings or profile visibility on this page.
 
-Screenshots:
+Sample Screenshots:
 
 Home Page:
 
 ![image](https://github.com/user-attachments/assets/f833fe04-9068-40fb-8475-ff9ae9f9bf91)
+
+Gallery Page:
+
+![image](https://github.com/user-attachments/assets/d5c73f35-5a73-4d1e-b286-07248bbac862)
+
+About Us Page:
+
+![image](https://github.com/user-attachments/assets/931bb7ed-7aea-49e5-90d2-f7b0d17b5f74)
+
+Alumni List Page:
+
+![image](https://github.com/user-attachments/assets/d3049a98-4049-41a7-bebe-78137edbf26f)
+
 
 
