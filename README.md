@@ -101,9 +101,10 @@ About Us Page:
 
 ![image](https://github.com/user-attachments/assets/931bb7ed-7aea-49e5-90d2-f7b0d17b5f74)
 
-Alumni List Page:
+Log-in Page:
+
+![image](https://github.com/user-attachments/assets/f7182ef4-09a0-4383-bed0-5e02475ad599)
+
+Alumni List Page (After Logging-in):
 
 ![image](https://github.com/user-attachments/assets/d3049a98-4049-41a7-bebe-78137edbf26f)
-
-
-
