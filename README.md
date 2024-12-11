@@ -16,8 +16,10 @@ website.
 Technologies Used:
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Php
-Database: SQL
+
+Database: MongoDB
 
 Features:
 
